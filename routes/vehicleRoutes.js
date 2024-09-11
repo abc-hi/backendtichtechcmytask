@@ -1,28 +1,3 @@
-// import express from 'express';
-// import fs from 'fs';
-
-// const router = express.Router();
-
-// router.get('/location', (req, res) => {
-//     const day = req.query.day;
-//     let data;
-  
-//     if (day === 'Today') {
-//       data = JSON.parse(fs.readFileSync('./data/today.json'));
-//     } else if (day === 'Yesterday') {
-//       data = JSON.parse(fs.readFileSync('./data/yesterday.json'));
-//     } else if (day === 'This Week') {
-//       data = JSON.parse(fs.readFileSync('./data/thisWeek.json'));
-//     }
-//     // Add more conditions for other days
-  
-//     res.json(data);
-//   });
-  
-
-// export default router;
-
-
 
 import express from 'express';
 import fs from 'fs';
