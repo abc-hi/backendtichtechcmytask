@@ -1,0 +1,28 @@
+[
+    {
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "timestamp": "2024-09-11T10:00:00Z"
+    },
+    {
+      "latitude": 37.7849,
+      "longitude": -122.4094,
+      "timestamp": "2024-09-11T10:05:00Z"
+    },
+    {
+      "latitude": 37.7949,
+      "longitude": -122.3994,
+      "timestamp": "2024-09-11T10:10:00Z"
+    },
+    {
+      "latitude": 37.8049,
+      "longitude": -122.3894,
+      "timestamp": "2024-09-11T10:15:00Z"
+    },
+    {
+      "latitude": 37.8149,
+      "longitude": -122.3794,
+      "timestamp": "2024-09-11T10:20:00Z"
+    }
+  ]
+  
