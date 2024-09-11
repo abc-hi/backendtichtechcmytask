@@ -15,6 +15,7 @@ app.use(cors({
 app.use(express.json());
 app.get("/", (req,res)=>{
   console.log("API is working fine")
+  res.send("API is working fine");
 })
 // Routes
 app.use('/api', vehicleRoutes);
